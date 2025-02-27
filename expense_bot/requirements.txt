@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+apscheduler
+SpeechRecognition
+pydub    # иногда нужно для обработки аудио
