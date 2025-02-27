@@ -1,6 +1,6 @@
 # config.py
 
-TOKEN = "8072627379:AAEQ6kvTyXGzoIPMKXA4bJmxqBad_YLD-jM"
+TOKEN = "WRITE_YOUR_OWN_TOKEN"
 
 # За сколько дней до платежа напоминать
 BILL_REMINDER_DAYS = 3
